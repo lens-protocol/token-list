@@ -1,0 +1,23 @@
+{
+  "name": "Lens Protocol 4626 Vault List",
+  "logoURI": "https://raw.githubusercontent.com/lens-protocol/brand-kit/main/Logo/SVG/LENSLOGO-NEONGREENBG.svg",
+  "keywords": [
+    "social"
+  ],
+  "timestamp": "2022-09-22T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0x1f60F6b99e877954Adbb7F3a0Cf7b6B825c24FD1",
+      "symbol": "swUSDc",
+      "name": "Superstate USDc Wrapper",
+      "decimals": 6,
+      "logoURI": "ipfs://QmXfzKRvjZz3u5JRgC4v5mGVbm9ahrUiB4DgzHBsnWbTMM"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
